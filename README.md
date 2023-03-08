@@ -3,5 +3,5 @@ This project hopes to develop a model and ML based application that will allow u
 
 For the project, we build of the dataset provided by "Realinho, V.; Machado, J.; Baptista, L.; Martins, M.V. Predicting Student Dropout and Academic Success. Data 2022, 7, 146." 
 
-Which can be found here: https://doi.org/10.3390/ data7110146
+Which can be found here: https://doi.org/10.3390/data7110146
 
